@@ -1,0 +1,13 @@
+
+{
+  "name": "Poker Solitaire",
+  "version": "1.0",
+"icons": {
+        "128": "clayIcon.jpg"
+    },
+  "app": {
+    "launch": {
+      "local_path": "index.html"
+    }
+  }
+}
